@@ -1,3 +1,9 @@
+Proyecto Modificado por el alumno Carlos Ramirez 201213132
+
+Este proyecto fue proporcionado por los auxiliares del curso compiladores2 y los cambios que se hicieron fueron agregar la generacion del codigo de 3 direcciones para las operaciones relacionales y logicas.
+
+
+
 # MakerC3D
 Repositorio base para las hojas de trabajo del curso de Organización de Lenguajes y Compiladores 2 para generar código de tres direcciones.
 
